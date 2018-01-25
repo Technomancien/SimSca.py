@@ -2,7 +2,7 @@
 
 
 ## [Title]: SimSca.py  -- recon/enumeration script
-## [Author]: FG
+## [Author]: FG (Technomancien)
 ##-------------------------------------------------------------------------------------------------------------
 ## [Details]: Simple Nmap vuln scanner
 ## 
