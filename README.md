@@ -3,9 +3,12 @@ A simple Nmap vuln scan Script that use some NSE scripts and xsltproc to have a 
 
 
 NSE scripts used : 
-      auth
-      vuln
-      discovery
+      auth,
+      
+      vuln,
+      
+      discovery,
+      
       vulners (https://github.com/vulnersCom/nmap-vulners) ---- Testing it
       
       
