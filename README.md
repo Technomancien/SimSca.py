@@ -12,9 +12,9 @@ NSE scripts used :
       
 Requirements :  
 
-                Nmap     (apt-get install nmap)
-                xsltproc (apt-get install xsltproc)
-                vulners.nse (download at https://github.com/vulnersCom/nmap-vulners then copy the vulners.nse to nmap/script folder           
+    Nmap     (apt-get install nmap)
+    xsltproc (apt-get install xsltproc)
+    vulners.nse (download at https://github.com/vulnersCom/nmap-vulners then copy the vulners.nse to nmap/script folder           
       
  
 Notice: the script is quite slow right now 
