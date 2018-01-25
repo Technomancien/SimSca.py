@@ -20,5 +20,9 @@ Requirements :
 Use : 
    
      ./SimSca.py <target IP>
+     
+     wait until the script finish 
+     
+     the results will be in a file called <target IP>_scan.htm in the same directory as the script.
  
 Notice: the script is quite slow right now 
