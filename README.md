@@ -3,16 +3,16 @@ A simple Nmap vuln scan Script that use some NSE scripts and xsltproc to have a 
 
 
 NSE scripts used : 
-      auth,
       
-      vuln,
-      
-      discovery,
-      
+      auth
+      vuln
+      discovery
       vulners (https://github.com/vulnersCom/nmap-vulners) ---- Testing it
       
       
-Requirements :  Nmap     (apt-get install nmap)
+Requirements :  
+
+                Nmap     (apt-get install nmap)
                 xsltproc (apt-get install xsltproc)
                 vulners.nse (download at https://github.com/vulnersCom/nmap-vulners then copy the vulners.nse to nmap/script folder           
       
