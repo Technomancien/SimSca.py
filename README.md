@@ -4,6 +4,7 @@ A simple Nmap vuln scan Script that use some NSE scripts and xsltproc to have a 
 
 NSE scripts used : 
       
+      default
       auth
       vuln
       discovery
