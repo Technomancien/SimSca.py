@@ -16,5 +16,9 @@ Requirements :
     xsltproc (apt-get install xsltproc)
     vulners.nse (download at https://github.com/vulnersCom/nmap-vulners then copy the vulners.nse to nmap/script folder           
       
+      
+Use : 
+   
+     ./SimSca.py <target IP>
  
 Notice: the script is quite slow right now 
