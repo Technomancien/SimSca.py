@@ -1,5 +1,5 @@
 # SimSca.py
-A simple Nmap vuln scan Script that use some NSE scripts and xsltproc to have a easy to use and readable lightweight vulnscanner .
+A simple Nmap vuln scan script that use some NSE scripts and xsltproc to have a easy to use and readable lightweight vulnscanner .
 
 NSE scripts used : 
       
