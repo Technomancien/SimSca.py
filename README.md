@@ -17,7 +17,7 @@ Requirements :
     vulners.nse (download at https://github.com/vulnersCom/nmap-vulners then copy the vulners.nse to nmap/script folder           
       
       
-Use : 
+Usage : 
    
      ./SimSca.py <target IP>
      
