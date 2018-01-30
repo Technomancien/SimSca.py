@@ -32,7 +32,7 @@ if len(sys.argv) != 2:
 
 ip_address = sys.argv[1] 
 print "INFO: python SimSca.py " + ip_address
-print "Go get a coffee it might take some time ..."
+print "Go get a coffee it will take some time ..."
 SCAN = "nmap -vv -sS -Pn -A -sV -T4 --script=default,auth,vuln,discovery,vulners -p- -oX scan.xml --script-args=safe=1 %s" %(ip_address) 
 results = subprocess.check_output(SCAN, shell=True) 
 
