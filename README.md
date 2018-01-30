@@ -12,6 +12,7 @@ NSE scripts used :
       
 Requirements :  
 
+    Linux 
     Nmap     
     xsltproc
     vulners.nse (download at https://github.com/vulnersCom/nmap-vulners then copy the vulners.nse to nmap/script folder           
